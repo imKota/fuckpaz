@@ -24,11 +24,15 @@ Fuckpaz v2.0 by asmodean, updated by ImKota
         game index = 17 -> Soreyori no Prologue (jp)
         game index = 18 -> Soreyori no Prologue Append H (jp)
         game index = 19 -> Tsumi no Hikari Rendezvous (jp)
-        game index = 20 -> Tsumi no Hikari Rendezvous Mikan Blossom (jp)
-        game index = 21 -> Trinoline (jp)
-        game index = 22 -> Trinoline steam (en)
-        game index = 23 -> Trinoline: Genesis (jp)
-        game index = 24 -> Sono Hi no Kemono ni wa, (jp)
+        game index = 20 -> Tsumi no Hikari Rendezvous Mikan Blossom (jp) trial
+        game index = 21 -> Tsumi no Hikari Rendezvous Mikan Blossom (jp)
+        game index = 22 -> Trinoline (jp) trial
+        game index = 23 -> Trinoline (jp)
+        game index = 24 -> Trinoline steam (en)
+        game index = 25 -> Trinoline: Genesis (jp)
+        game index = 26 -> Trinoline: Genesis steam (en)
+        game index = 27 -> Sono Hi no Kemono ni wa, (jp)
+
 
 # example
 unpack
